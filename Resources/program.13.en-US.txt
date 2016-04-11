@@ -1,0 +1,194 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Header Text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+About_Us_hidden_header=About Us
+About_Us_Short_Text=<b>Fletcher Free Library’s 2015 Summer Reading Program: Every Hero has a Story!</b> <br />Our Summer Reading Program is a free eight-week program designed to motivate elementary and middle school students to read and maintain reading skills during the summer.  
+Contact_Us_hidden_header=Contact Us
+Contact_Us_hidden_header_Phone= (802) 865-7216
+Contact_Us_hidden_header_Email= Fletcher Free Library
+Contact_Us_hidden_header_Address= 235 College St, Burlington, VT 05401
+Info_hidden_header=More Information
+Info_hidden_header_Short_Text=<b>Every Hero Has a Story!</b> The 2015 children’s national Summer Reading Program is all about heroes. Fletcher Free is offering a variety of engaging programs and activities encouraging children to READ while having fun exploring heroes of all kinds, from comic super heroes to community and family member heroes, and especially kid heroes!
+System_Name=<a class="sitename" href="MyProgram.aspx"><img class="everyhero" src="../../../images/games/books/41.png"><img class="everyhero2" src="../../../images/games/books/42.png"></a>
+Slogan=Fletcher Free Library <br> Summer Reading Program 2015 
+Upsell=Some rights reserved by their respective holders.  Call us for more details.
+Back To Top=Back To Top
+Copyright_Statement=Copyright (c) 2013-2015 <a href="http://http://208.109.88.88/" target=_blank>Systems Technology Group, Inc.</a>
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Global text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+RegisterMasterBtn=Register
+LoginMasterBtn=Login
+LogoutMasterBtn=Logout
+btnRegister=Register Now
+btnLogin=Login Now
+Program:=Program:
+Button=Press Me!
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Login form text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LoginForm Title=Login
+LoginForm no account=Don't have an account?  
+LoginForm register=<b>Register now ...</b>
+LoginForm forgot pass=Did you forget your password?
+LoginForm recover=<b>Get it by email ...</b>
+LoginForm username=Username:
+LoginForm password=Password:
+LoginForm terms=I accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditionsI accept the terms and conditions
+LoginForm button=Login
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Recover form text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+RecoverForm Title=Forgot Password
+RecoverForm no account=Don't have an account?  
+RecoverForm register=<b>Register now ...</b>
+RecoverForm go login=Did you just remember your password?
+RecoverForm login=<b>Login now ...</b>
+RecoverForm email=Username:
+RecoverForm button=Email Password
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Change password form text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PwdResetForm Title=Change Password
+PwdResetForm current=Current password:  
+PwdResetForm newpassword=New password: 
+PwdResetForm newpassword repeat=Re-enter the new password:
+PwdResetForm button=Submit
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Change family password form text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+FamPwdResetForm Title=Change Password for Family Member
+FamPwdResetForm current=<font color=red>The PARENT's</font> Current password:  
+FamPwdResetForm newpassword=<font color=red>The CHILD's</font> New password: 
+FamPwdResetForm newpassword repeat=Re-enter the new password:
+FamPwdResetForm button=Submit
+FamPwdResetForm button2=Cancel
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Family List
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+FamAccts Title=Family Members List
+FamAccts List=Family Members
+FamAccts Manage Account=Manage Account
+FamAccts Change Password=Change Password
+FamAccts Log=Enter Activity
+FamAccts Impersonate Instructions=If you are the parent, and have created family accounts for the other members of your family, then you can switch back and forth between the various accounts without logging in separately.  To log into another family account linke to your parent account, select it from the accounts drop down list and click the "Go" button.
+FamAccts Impersonate Go=Go
+FamAccts Impersonate Cancel=Cancel
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Account Screen
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+MyAccount Title=My Account Setup
+FamilyAccount Title=Family Account Setup
+MyAccount SaveBtn=Submit
+MyAccount CancelBtn=Cancel
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Registration Screen
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Registration Title=Register and Create Account
+Registration Message=To create your account please complete the required fields and click continue when done.
+Registration Family Member Message=You have completed your account registration and are now creating accounts for your family members.
+Registration Account Success=Your Account has been succesfully created.
+Registration FamilyAccount Success=Your Account has been succesfully created. <br />You also indicated you want to create accounts for family members. <br /><br />Click "Next" to add a family member account, or click "Done" if you are done adding family member accounts.
+Registration TermsOfUseflag=I agree to the terms and conditions program participation. I agree to read at least 10 hours over the summer – which is the equivalent of 15 minutes a day. I will track my hours and minutes and log only what I have read. I will record reading progress in the Library’s online system. If I do not have access to a computer and / or wish to speak to a Librarian or Volunteer about my reading, I will visit the library weekly with my log to report on books read and track reading progress in my own SRP account. I will receive a free T-shirt after reading for 1 hour.<br>
+Registration ShareFlag=Parents: I give the Fletcher Free Library, its representatives and employees, the right to take photographs of me and my property, and to copyright, use and publish the photographs in print and/or electronically. I agree that Fletcher Free Library may use the photographs of me with or without my name and for any lawful purpose, including for example such purposes as publicity, illustration, advertising, fundraising and Web content. Please uncheck you are <b>NOT</b> giving permission
+Registration btnNext=Continue >
+Registration btnDone=Done
+Registration btnPrev=< Go Back
+Registration label School Grade=Grade Entering (Sept 2015):
+Registration label DOB=Date of Birth:
+Registration label Age=Age:
+Registration label Family Account=Are you a parent and want to create a Family Account and register multiple family members?
+Registration label Program=Program:
+Registration label FirstName=First Name:
+Registration label LastName=Last Name:
+Registration label MiddleName=Middle Name:
+Registration label Gender=Gender:
+Registration label Email=Email Address:
+Registration label Phone=Phone Number:
+Registration label Addr1=Street Address 1:
+Registration label Addr2=Street Address 2:
+Registration label City=City:
+Registration label State=State:
+Registration label Zip=Zip Code:
+Registration label Country=Country:
+Registration label County=County:
+Registration label PGFN=Parent or Guardian First Name:
+Registration label PGMN=Parent or Guardian Middle Name:
+Registration label PGLN=Parent or Guardian Last Name:
+Registration label Library=Primary Library:
+Registration label LibraryCard=Library Card #:
+Registration label School=School Name:
+Registration label District=District:
+Registration label Teacher=Teacher:
+Registration label Group=Group/Team Name:
+Registration label SchoolType=School Type:
+Registration label Terms=Terms of Use:
+Registration label InfoShare=Media Release:
+Registration label Consent=Parental Consent:
+Registration label Avatar=Avatar: 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Minigames text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Minigame Instructions OB=<img src="http://mcldconnect.org/mcreads/wp-content/uploads/2014/05/MCESALogo_Seal_Right.jpg">    Content created in collaboration with the Maricopa County Education Service Agency.<p><p><br> <h3><b>Read the story for loads of fun!</b></h3><br>
+Minigame Instructions HP=<img src="http://mcldconnect.org/mcreads/wp-content/uploads/2014/05/MCESALogo_Seal_Right.jpg" width="100%">    Content created in collaboration with the Maricopa County Education Service Agency.<p><p><br> <h3><b>Match the word on top with the same word on the square to uncover a hidden picture!</b></h3><br>
+Minigame Instructions MM=<img src="http://mcldconnect.org/mcreads/wp-content/uploads/2014/05/MCESALogo_Seal_Right.jpg">    Content created in collaboration with the Maricopa County Education Service Agency.<p><p><br> <h3><b>Choose the picture that matches the word!</b></h3><br>
+Minigame Instructions CB=<img src="http://mcldconnect.org/mcreads/wp-content/uploads/2014/05/MCESALogo_Seal_Right.jpg">    Content created in collaboration with the Maricopa County Education Service Agency.<p><p><br> <h3><b>Use the key to decode the message!</b></h3><br>
+Minigame Instructions WM=<img src="http://mcldconnect.org/mcreads/wp-content/uploads/2014/05/MCESALogo_Seal_Right.jpg">    Content created in collaboration with the Maricopa County Education Service Agency.<p><p><br> <h3><b>Click the squares to find the matching pairs!</h3></b><br>
+Minigame Instructions MG=<img src="http://mcldconnect.org/mcreads/wp-content/uploads/2014/05/MCESALogo_Seal_Right.jpg">    Content created in collaboration with the Maricopa County Education Service Agency.<p><p><br> <h3><b>Choose the word that matches the picture!</b></h3><br>
+Minigame Instructions CA=<img src="http://mcldconnect.org/mcreads/wp-content/uploads/2014/05/MCESALogo_Seal_Right.jpg">    Content created in collaboration with the Maricopa County Education Service Agency.<p><p><br> <h3><b>Read the story and decide which path you want to take!</b></h3><br>
+Minigame Instructions Difficulty=Choose the difficulty level you would like to play
+Minigame Instructions BtnEasy=Easy
+Minigame Instructions BtnMedium=Medium
+Minigame Instructions BtnHard=Hard
+Minigame Instructions BtnPrev=Previous Page
+Minigame Instructions BtnNext=Next Page
+Minigame Instructions BtnContinue=Continue
+Minigame BtnContinue=Continue
+Minigame label Enter Decoded=Use the Key and type the decoded message in the text box below. Be careful, the message is case sensitive ...
+Minigame btnScore=Verify Decoding
+Minigame Key=Message Key
+Minigame Instructions ReachedtheEnd=You have reached the end of your adventure.
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Offers text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Offers Title=Promotional Offers
+Offers btn Print=Print
+Offers btn Back=Go Back
+Offers Serial=Serial #
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Events text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Events Title=Upcoming Events
+Events btn Filter=Filter
+Events btn Clear=Clear
+Events Label When=When: 
+Events Label What=What: 
+Events Label Where=Where: 
+Events Btn Details=More Details ... 
+Events btn Print=Print
+Events btn Back=Go Back
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Notifications text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Notifications Title=Notifications
+Ask A Question=Ask A Question
+Notifications btn Print=Print
+Notifications Ask Question Title=Ask Question
+Submit Question=Submit Question
+Notifications Ask Question Submitted Done=We have received yor question and will get back to you soon.
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Reading Lists text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Reading Lists Title=Book Lists Recommended By Our Librarians
+Reading Lists Instructions=Our librarians have put together several reading lists, for a variety of reading interests and levels.  Select the list name to see the books on the list, and then let us know which of the books you have read.  Complete the reading list and you might just earn a prize, cool badges and even reading points!
+Reading Lists No Lists=No reading lists are available at this time.
+Reading Lists btn Print=Print
+Reading Lists btn Save=Save
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;  Logging Form text
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+LoggingForm Title=Family Account Activity Logging
+Activity History Title=Activity History
+Activity History btn Filter=Filter
+Play Now=Play Now <br /><small>Go to the game map</small>
+Reading Log=Play Now:<br /><small>Log my reading, enter a secret code, and play mini-games</small>
